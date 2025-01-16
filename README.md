@@ -30,4 +30,4 @@ A Full-stack Gym Management System with Spring Boot backend and React.js fronten
 ![H2 Console](https://github.com/ManojkumarEdla9/GymManagementSystem/blob/master/H2%20Console.png)
 
 ### API
-![Postman Response]("C:\Users\manoj\OneDrive\Pictures\Screenshots\Elephant Ad Agency\Postman Response.png")
+![Postman Response](https://github.com/ManojkumarEdla9/GymManagementSystem/blob/master/Postman%20Response.png)
