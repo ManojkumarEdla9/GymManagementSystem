@@ -21,13 +21,13 @@ A Full-stack Gym Management System with Spring Boot backend and React.js fronten
 
 ## Screenshots
 ### Backend
-![Application Properties](screenshots/application-properties.png)
+![Application Properties](C:\Users\manoj\OneDrive\Pictures\Screenshots\Elephant Ad Agency\Login Page-frontend.png)
 
 ### Frontend
-![Login Page](screenshots/login-page.png)
+![Login Page](C:\Users\manoj\OneDrive\Pictures\Screenshots\Elephant Ad Agency\Application properties.png)
 
 ### Database
-![H2 Console](screenshots/h2-console.png)
+![H2 Console](C:\Users\manoj\OneDrive\Pictures\Screenshots\Elephant Ad Agency\H2 Console-Databas.png)
 
 ### API
-![Postman Response](screenshots/postman-response.png)
+![Postman Response](C:\Users\manoj\OneDrive\Pictures\Screenshots\Elephant Ad Agency\Postman Response.png)
